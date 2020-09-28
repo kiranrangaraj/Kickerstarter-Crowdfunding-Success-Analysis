@@ -1,6 +1,7 @@
 # excel-challenge
+Excel Homework Assignment for Data Analytics Bootcamp - Trilogy Education, Vanderbilt University
 
-# Excel Homework: Kickstart My Chart
+# Kickstart My Chart
 
 ## Background
 
