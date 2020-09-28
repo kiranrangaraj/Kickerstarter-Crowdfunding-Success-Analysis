@@ -11,7 +11,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ## Instructions
 
 ![Kickstarter Table](Images/FullTable.PNG)
-https://vanderbilt.bootcampcontent.com/vanderbilt_coding_bootcamp/vu-nsh-data-pt-06-2020-u-c/-/blob/master/02-Homework/01-Excel/Instructions/Images/FullTable.PNG
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
