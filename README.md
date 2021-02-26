@@ -1,5 +1,9 @@
 # Kickstart Crowdfunding Success Excel Analysis
 
+<p align="center">
+  <img src="Images/kickstarterLogo.png" width="400">
+</p>
+
 ## Summary ##
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
@@ -93,4 +97,5 @@ If one were to describe a successful crowdfunding campaign, most people would us
 ---
 
 ## Author ##
-Kiran Rangaraj
+Kiran Rangaraj - Vanderbilt University 2021
+* LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
