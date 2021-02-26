@@ -97,5 +97,5 @@ If one were to describe a successful crowdfunding campaign, most people would us
 ---
 
 ## Author ##
-Kiran Rangaraj - Vanderbilt University 2021
+Kiran Rangaraj - 2021
 * LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
