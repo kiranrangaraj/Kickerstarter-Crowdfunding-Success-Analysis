@@ -102,5 +102,4 @@ If one were to describe a successful crowdfunding campaign, most people would us
 ---
 
 ## Author ##
-Kiran Rangaraj - 2021
-* LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
+Kiran Rangaraj - LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
