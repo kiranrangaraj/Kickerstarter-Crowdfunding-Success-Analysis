@@ -90,6 +90,11 @@ If one were to describe a successful crowdfunding campaign, most people would us
 
 ---
 
+## Data ##
+* [Kickstarter CSV](https://github.com/kiranrangaraj/Kickerstarter-Crowdfunding-Success-Analysis/blob/master/Data/KickstarterData.csv)
+
+---
+
 ## Tools Used ##
 * Microsoft Excel
 * CSV files
