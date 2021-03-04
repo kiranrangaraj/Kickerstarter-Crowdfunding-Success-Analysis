@@ -1,4 +1,4 @@
-# Kickstart Crowdfunding Success Excel Analysis
+# Kickstarter Crowdfunding Success Excel Analysis
 
 <p align="center">
   <img src="Images/kickstarterLogo.png" width="400">
