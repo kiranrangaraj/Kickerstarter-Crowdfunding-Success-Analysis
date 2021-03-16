@@ -74,7 +74,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ### Evaluation of the Impact of Campaign Backers Using a Summary Statistics Table 
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. 
 
-* Create a new worksheet and columns for each of the number of backers of successful campaigns and unsuccessful campaigns.
+* Create a new worksheet and columns for each of the number of backers of both successful and unsuccessful campaigns.
 
   ![Images/backers01.png](Images/Backers.png)
 * Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
